@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SodaAdviser</string>
+    <string name="find_soda">Find Soda!</string>
+    <string name="brands"></string>
+    <string-array name="soda_colors">
+        <item>grape</item>
+        <item>orange</item>
+        <item>cola</item>
+        <item>lime</item>
+    </string-array>
+</resources>
