@@ -3,9 +3,9 @@
     <string name="find_soda">Find Soda!</string>
     <string name="brands"></string>
     <string-array name="soda_colors">
-        <item>grape</item>
-        <item>orange</item>
-        <item>cola</item>
-        <item>lime</item>
+        <item>Grape</item>
+        <item>Orange</item>
+        <item>Cola</item>
+        <item>Lime</item>
     </string-array>
 </resources>
